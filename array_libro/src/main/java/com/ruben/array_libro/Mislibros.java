@@ -33,6 +33,7 @@ public class Mislibros {
         Mislibros[6] = new Libro ("titulo6", "paco");
         Mislibros[7] = new Libro ("titulo7", "paco");
         Mislibros[8] = new Libro ("titulo8", "paco");
-        Mislibros[9] = new Libro ("titulo9", "paco");    
+        Mislibros[9] = new Libro ("titulo9", "paco");
+        
     }
 }
